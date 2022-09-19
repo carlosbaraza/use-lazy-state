@@ -1,7 +1,7 @@
 {
   "name": "use-lazy-state",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "description": "Tiny `useLazyState` hook. Similar to `useState`, but giving you control over the re-rendering process. Subscribe to state changes in leaf components and don't re-render the entire component tree.",
   "main": "./lib/src/index.js",
   "files": [
     "lib/**/*"
